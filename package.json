@@ -1,0 +1,14 @@
+{
+  "name": "address-bot",
+  "version": "1.0.5",
+  "description": "Give me adress now",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Levi-Kun",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
+}
